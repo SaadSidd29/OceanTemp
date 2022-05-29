@@ -4,5 +4,5 @@ Jinja2
 numpy
 scipy
 sklearn
-sckit-learn
+scikit-learn
 matplotlib
